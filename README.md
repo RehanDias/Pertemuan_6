@@ -28,6 +28,10 @@ Analisis pola kelangsungan hidup pasien kanker payudara menggunakan Dataset Habe
     - Analisis PDF dan CDF
     - Distribusi Usia (Box Plot)
     - Distribusi Tahun Operasi (Violin Plot)
+    - Pairplot untuk Analisis Multivariat (dengan style whitegrid)
+        - Visualisasi hubungan antar semua variabel
+        - Pewarnaan berdasarkan status survival
+        - Menggunakan palette Set2 untuk diferensiasi visual yang jelas
 
 ### Library yang Digunakan
 
